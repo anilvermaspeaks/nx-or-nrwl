@@ -34,12 +34,24 @@
       "tags": [],
       "implicitDependencies": ["admin"]
     },
+    "orders": {
+      "tags": []
+    },
+    "products": {
+      "tags": []
+    },
     "shop": {
       "tags": []
     },
     "shop-e2e": {
       "tags": [],
       "implicitDependencies": ["shop"]
+    },
+    "ui": {
+      "tags": []
+    },
+    "user": {
+      "tags": []
     }
   }
 }
